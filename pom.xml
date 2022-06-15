@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>me.glindholm.connector.eclipse</groupId>
 	<artifactId>JiraConnector</artifactId>
-	<version>4.1.0-SNAPSHOT</version>
+	<version>4.1.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<developers>
@@ -133,7 +133,7 @@
 	</properties>
 
 	<modules>
-		<module>jira-rest-java-client</module>
+		<module>jrjc</module>
 		<module>commons-feature</module>
 		<module>commons.core</module>
 		<module>commons.ui</module>
